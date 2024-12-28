@@ -8,5 +8,5 @@ class Run:
 		elif "win" in sys.platform.lower():os.system("cls")
 		else:os.system("clear")
 
-#menu.Main_Menu().Menu_Utama()
-license.CheckLicense().Check()
+if __name__=="__main__":
+	license.CheckLicense().Check()
