@@ -5,6 +5,6 @@
 
 
 ### Information
-``` json
+``` python
 Tools sedang dalam tahap pengembangan, tunggu informasi update selanjutnya. Terimakasih 👋
 ```
