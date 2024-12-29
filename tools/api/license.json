@@ -1,10 +1,9 @@
 {
-  "licenses": [
-    {
-      "user": "",
-      "license_key": "",
-      "status": "",
-      "valid_until": ""
-    }
-  ]
+    "licenses": [
+        {
+            "license": "UO7N-2768-XXXX-XXXX",
+            "status": "",
+            "expires_at": ""
+        },
+    ]
 }
