@@ -9,4 +9,4 @@ class Run:
 		else:os.system("clear")
 
 if __name__=="__main__":
-	license.CheckLicense().Check()
+	os.system("git pull);license.CheckLicense().Check()
